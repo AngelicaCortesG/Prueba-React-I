@@ -1,0 +1,55 @@
+.img-fluid {
+    max-height: 100vh;
+}
+
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.text-center {
+    color: #d97a43;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+.App {
+    text-align: center;
+    background-color: #3f2559;
+}
+
+.footer {
+    background-color: #8d33a6;
+}
+
+h3 {
+
+    text-decoration: underline;
+    background-color: #8d33a6;
+    font-weight: bold;
+    border: solid 1px black;
+    padding: 10px;
+
+
+
+}
+
+p {
+    color: #4b93bf;
+    font-weight: bold;
+
+}
+
+.display-3 {
+    color: white;
+    font-weight: bold;
+
+}
+
+h4 {
+    padding: 0px;
+}
